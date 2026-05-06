@@ -1,29 +1,3 @@
-# HyperDroid - PC Launcher
-Native desktop experience on your android device.
-
-## Get
-<a href="https://play.google.com/store/apps/details?id=com.binary.hyperdroid">
-  <img src="src/assets/playstore_link.svg" alt="Build" />
-</a>
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">Screenshots</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">
-        <img src="src/assets/screen_1.webp" alt="App's main screen with StartMenu" width="350">
-      </td>
-      <td style="text-align: center;">
-        <img src="src/assets/screen_4.webp" alt="Settings system" width="350">
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">
-        <img src="src/assets/screen_5.webp" alt="File Manager" width="350">
       </td>
       <td style="text-align: center;">
         <img src="src/assets/screen_3.webp" alt="Settings colors" width="350">
